@@ -1,0 +1,19 @@
+{
+  "name": "char-sortinator",
+  "version": "1.0.0",
+  "description": "sort a string lexigraphically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianpak8/char-sortinator.git"
+  },
+  "author": "brian pak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianpak8/char-sortinator/issues"
+  },
+  "homepage": "https://github.com/brianpak8/char-sortinator#readme"
+}
